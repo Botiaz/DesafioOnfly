@@ -5,19 +5,6 @@
 - **Ferramenta:** Claude Code (extensão do VS Code)
 - **Modelo:** Claude Opus 5.5 (`claude-opus-5-5`)
 
-## Sessões
-
-| Arquivo | Contexto |
-|-|-|
-| `sessao-01.md` | Primeira rodada do desafio, feita em outra cópia local do projeto. |
-| `sessao-02.md` | Rodada que resultou neste repositório: refiz as correções, a IA revisou e ampliou os testes. |
-
-Os dois arquivos são logs consolidados de prompts e respostas, gerados a partir do arquivo nativo da
-sessão do Claude Code (`.jsonl`). Para publicar em repositório público, foram removidos e-mails,
-identificadores de conta, blocos de contexto interno da ferramenta e da IDE e o raciocínio interno
-do modelo. As saídas de ferramentas foram truncadas em 25 linhas. Prompts, respostas e chamadas de
-ferramentas estão íntegros e na ordem original.
-
 ## O que a IA fez
 
 **Ambiente e diagnóstico**
